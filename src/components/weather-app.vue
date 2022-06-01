@@ -12,7 +12,7 @@
         <option value="Nice">Nice</option>
       </select>
     </div>
-    <button type="submit">Resultat</button>
+    <button type="submit">Resultats</button>
   </form>
   <br />
   <div>
